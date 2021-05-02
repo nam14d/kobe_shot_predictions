@@ -55,6 +55,6 @@ Once we plot these points, we can calculate the distance between these two vecto
 
 ![alt text][angle_vis]
 
-[angle_vis]:/visualizations/shot_angle/visualized.png
+[angle_vis]:/visualizations/shot_angle_visualized.png
 
 ### We've run through most of my EDA and feature engineering; next up is the modeling. If interested, please view the Jupyter Notebook itself. 
